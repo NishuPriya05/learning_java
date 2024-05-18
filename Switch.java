@@ -1,5 +1,7 @@
 public class Switch {
     public static void main(String[]args){
+
+        // Example 1
         
         int day = 5;
         switch (day) {
@@ -25,6 +27,8 @@ public class Switch {
                 System.out.println("Sunday");
                 break;
         }
+
+        // Example 2
 
         int day1 = 2;
         switch (day1) {
